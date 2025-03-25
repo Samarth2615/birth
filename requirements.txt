@@ -1,4 +1,7 @@
-yagmail
+smtplib
+email
 pandas
 schedule
 python-dotenv
+requests
+base64
